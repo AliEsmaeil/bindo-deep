@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "rar.it.bindo",
+      "sha256_cert_fingerprints": [
+        "8D:D5:BE:C1:ED:D9:F8:22:7D:31:00:C8:69:23:E3:88:AF:A8:5A:D3:25:32:29:80:40:CB:97:D9:D6:2C:7F:18"
+      ]
+    }
+  }
+]

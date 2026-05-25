@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "5K779VWRTF.rar.it.bindo"
+        ],
+        "components": [
+          {
+            "/": "/ads/*",
+            "comment": "Matches any URL that starts with /ads/."
+          },
+          {
+            "/": "/ad/*",
+            "comment": "Matches any URL that starts with /ad/."
+          }
+        ]
+      }
+    ]
+  }
+}
